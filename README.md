@@ -66,7 +66,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/berkecanakkor/berkecanakkor/output/snake.svg" alt="Snake animation" />
-
 ###
