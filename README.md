@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berke Can Akkor</h1>
 <h3 align="center">Python Developer | Backend & AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/berkecanakkor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=flat&logo=tryhackme&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
